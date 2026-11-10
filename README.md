@@ -42,10 +42,6 @@ Cuento con experiencia construyendo soluciones Full Stack y aplicaciones móvile
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lautaro-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Lautaro-404" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-404&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
 
 ---
 

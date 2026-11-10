@@ -40,7 +40,7 @@ Cuento con experiencia construyendo soluciones Full Stack y aplicaciones móvile
 
 ---
 
-### 📊 Métricas de GitHub
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lautaro-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Lautaro-404" />
